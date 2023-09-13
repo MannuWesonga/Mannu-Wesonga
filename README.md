@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MannuWesonga, a data analyst and Strategian from Nairobi, Kenya.
+- 👋 Hi, I’m @MannuWesonga,(Software engineer) a data analyst and Strategian from Nairobi, Kenya.
 - 👀 I’m interested in  web development, machine learning, and open source and AI
 - 🌱 I’m currently learning  learning React, TensorFlow, and Django...
 - 💞️ I’m looking to collaborate on projects that can make a positive impact on society and the environment.
